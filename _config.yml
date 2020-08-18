@@ -12,11 +12,12 @@ author: Larson Cole
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "df"
+  Adjascent Sites:
+    - LinkedIn: "https://www.linkedin.com/in/larson-cole/"
+    - Personal Instagram: "https://www.instagram.com/larsoncole_/"
+    - Creative Instagram: "https://www.instagram.com/random.art.lars/"
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
